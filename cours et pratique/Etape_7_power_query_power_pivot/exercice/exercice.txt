@@ -1,0 +1,7 @@
+- importez le fichier "inventaire", contenant le détail des prodruits
+- Il y a des doublons dans le tableau. Supprimez les.
+- les colonnes "Références de stock" et "temps avant réaprovisionnement en jours" ne nous seront pas utiles dans notre analyses, supprimez les
+- dans power pivot, créez une relation entre "inventaire" et "ventes" grace au noms des produits
+- créez une mesure calculant le nombre total de prix en stock 
+- créez une mesure caculant le prix unitaire moyen des produits
+- Via un TCD, créez un tableau contenant le chiffre d'affaires, le nombre total de produits en stock, et le prix unitaire moyen  par catégorie de produit
